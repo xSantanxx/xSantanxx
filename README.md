@@ -27,16 +27,6 @@
 
 ---
 
-## ⏰ Fun Digital Clock
-
-> Here’s a little digital world clock component (made with React & Tailwind) you can use in your projects!
-
-```jsx
-// See DigitalClock.jsx in this repo!
-```
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
