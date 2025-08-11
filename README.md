@@ -38,7 +38,7 @@
 
 ## 🎵 Fun Facts
 
-- 🎬 Favorite animated show? _(You can add yours!)_
+- 🎬 Favorite TV Shows: _Sex And The City_ & _Everybody Hates Chris_
 - 🎧 Music keeps me going while I code
 - 🌍 Always exploring new tech and styles
 
